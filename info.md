@@ -144,3 +144,6 @@ git checkout code_commit
 > git add --help
 > 
 > git branch --help
+
+    (C) Mishchenko.Nikita
+    nekitoso2@yandex.ru
