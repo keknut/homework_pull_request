@@ -111,7 +111,17 @@ git checkout code_commit
 ### Клонирование удалённого репозитория на локальное хранилище
 
 Для того чтобы клонировать удалённый удалённый репозиторий на локальное хранилище, нужна команда:
-> git clone https://github.com/user/repositorie_name
+> git clone https://github.com/user/repositorie_name.git
+
+### Связывание локального репозитория с удалённым
+
+Чтобы связать локальный репозиторий с удалённым:
+
+> git remote add origin https://github.com/user/repositorie_name.git
+> git branch -M main
+> git push -u origin main
+
+
 
 ## Справка
 
