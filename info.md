@@ -108,7 +108,10 @@ git checkout code_commit
 Далее, найти ссылку на примере этой:
     https://github.com/keknut/homework_pull_request.git
 
+### Клонирование удалённого репозитория на локальное хранилище
 
+Для того чтобы клонировать удалённый удалённый репозиторий на локальное хранилище, нужна команда:
+> git clone https://github.com/user/repositorie_name
 
 ## Справка
 
